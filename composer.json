@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Fooman_Common",
+    "name": "OpenMageModuleFostering\/Fooman_Common",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Provides common functionality across Fooman extensions.",
     "authors": [
-    {
-        "name": "Kristof Ringleff",
-        "email": "kristof@fooman.co.nz"
-    }
-],
+        {
+            "name": "Kristof Ringleff",
+            "email": "kristof@fooman.co.nz"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
